@@ -1,0 +1,206 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Dr.Arijit Roy
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    - name: Languages
+      value: English, Hindi, Bengali
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2021
+      description:
+        - Service-oriented Sensor-cloud Management for IoT Applications
+        - Supervisor <a href="http://cse.iitkgp.ac.in/~smisra/index.html">Prof. Sudip Misra</a>, Fellow IEEE, FNAE (India), FNASc (India), FIETE (India), FIET (UK), FRSPH (UK)
+
+
+    - title: Master of Science (by Research)
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2015
+      description:
+        - Dumb Nodes in Wireless Sensor Networks
+        - Supervisor <a href="http://cse.iitkgp.ac.in/~smisra/index.html">Prof. Sudip Misra</a>, Fellow IEEE, FNAE (India), FNASc (India), FIETE (India), FIET (UK), FRSPH (UK)
+
+    - title: Bachelor of Technology in Information Technology
+      institution: West Bengal University of Technology, West Bengal, India
+      year: 2010
+      description:
+        - Cyber Court
+        - Supervisor Prof. Rajat Subhra Goswami.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Indian Institute of Information Technology Sri City, India
+      year: 2021-2022
+      description:
+        - Computer Architecture (May-Jul, 2022).
+        - Operating Systems (Aug-2022-Till-date).
+        - Computing for Internet of things (Aug-2022-Till-date).
+
+    - title: Teaching Assistantship
+      institution: National Programme on Technology Enhanced Learning (NPTEL) Massive Open Online Course (MOOC)
+      year: 2017-2020
+      description:
+        - Introduction to Internet of Things (Jul-Oct, 2017, Jan-Apr, 2018, Jul-Oct, 2018, Jan-Apr, 2019, Jul-Oct, 2019, Jan-Apr, 2019, Jan-Apr, 2020, and Jul-Oct, 2020)
+        - Wireless Ad Hoc and Sensor Networks (Jan-Mar, 2017 and Jan-Apr, 2018)
+
+
+    - title: Teaching Assistantship
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2016-2020
+      description:
+        - Architecture and Protocols for IoT (CS61066), (Autumn-2018, 2019)
+        - Wireless Ad-Hoc and Sensor Networks (IT60119), (Autumn-2017)
+        - Software Engineering Theory (CS20006) and Lab (CS29006), (Spring-2017, 2018, 2019, 2020)
+        - Programming and Data Structure Lab (CS19001), (Autumn-2016)
+        - Advanced Network Technologies (IT60106), (Spring-2016)
+
+    - title: Visiting Lecturer
+      institution: The Institute of Engineers, IIT Kharagpur branch, India
+      year: 2011-2013
+
+
+    - title: Industry Junior Network Engineer (WB-SWAN)
+      institution: Intec Infonet Pvt. Ltd., India.
+      year: 2010-2011
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - IEEE TCSC Outstanding Ph.D. Dissertation Award 2021 Ph.D. Thesis was selected as the outstanding dissertation award by the IEEE Technical Committee on Scalable Computing (TCSC), which is an international forum fostering research and education in Scalable Computing.
+        - Matteucci Medal
+    - year: 2020
+      items:
+        - ICACIE-2020, Springer, Best Paper Award Paper titled QSens QoS-aware Sensor Node Selection in Sensor Cloud Architecture.
+    - year: 2019
+      items:
+        - IEEE Systems Journal Best Paper Award Paper titled MEGAN Multipurpose Energy-Efficient, Adaptable, and Low-Cost Wireless Sensor Node for the Internet of Things was recognized as ISJ Best Paper Award. In 2019, only 7 papers were selected by the journal committee for the best paper out of total of 793 papers.
+    - year: 2017-2018
+      items:
+        - Top Downloaded Article 2017-18 Paper titled Knowledge Discovery for Enabling Smart Internet of Things A Survey, published in Wiley Interdisciplinary Review - Data Mining and Knowledge Discovery was amongst articles published between January 2017 and December 2018, the paper received some of the most downloads in the 12 months. The paper was also recognized as a top 20 most read paper.
+    - year: 2019
+      items:
+        - InSc Young Achiever Award 2019 The award was received for the research paper Topology Control for Self Adaptation in Wireless Sensor Networks with Temporary Connection Impairment, published in ACM Transactions on Autonomous and Adaptive Systems.
+    - year: 2018
+      items:
+        - Heidelberg Laureate Forum (HLF) 2018 Selected as one of the most qualified young researchers (among 200 researchers world-wide) to participate in the 6th HLF and interact with the Nobel Laureates, Abel Prize Awardees, Fields Awardees, ACM A. M. Turing Awardees, ACM Prize Awardees, and Navanlinna Awardees.
+    - year: 2018
+      items:
+        - Dr. Amulya K. N. Reddy Award Awarded by the Hari-om Ashram Prerit Society for commercialization of prototype (INR 50,000) developed to address a socially relevant problem in 2018. Only 3-4 awards are granted annually among 25,000 (approx.) entries.
+    - year: 2018
+      items:
+        - Gandhian Young Technological Innovation (GYTI) 2018 Awardee of GYTI for the product Batteryless IoT Sensing Nodes. Award was received from the honorable President of India.
+    - year: 2016
+      items:
+        - IBM Day Award Runner-Up in Demo Presentation for the product Batteryless Sensing in IoT in IBM Day, organized by IBM and IIT Kharagpur, 2016
+    - year: 2015
+      items:
+        - Runner-Up in Poster Presentation in 6th Research Scholars Day, organized by the School of Information Technology, Indian Institute of Technology Kharagpur, 2015
+    - year: 2014
+      items:
+        - Received Honorary Certificate of Appreciation at IEEE ComSoc Student Competition "Communications Technology Changing the World", 2014 for being ranked among the top 9 projects worldwide
+    - year: 2014
+      items:
+        - Second Runners Up in Samsung Innovation Award 2014 for the product Big-Sensor-Cloud
+    - year: 2014
+      items:
+        - Outstanding Poster Presentation Award in 5th Research Scholars’ Day, organized by the School of Information Technology, Indian Institute of Technology Kharagpur, 2014
+    - year: 2014
+      items:
+        - Runner-Up in National Acron Imagination Competition
+
+
+- title: Positions Served/Membership
+  type: nested_list
+  contents:
+    - title: Editorship.
+      items:
+        - Guest Editor, IoT-based solutions for mitigation of COVID-19 and similar epidemics, Elsevier Smart Health
+        - Associate Editor, Frontiers in the Internet of Things.
+    - title: Chair
+      items:
+        - Co-chair, The 2nd Workshop on Softwarized Next Generation Networks for IoT Services co-located with the IEEE ICC 2022.
+        - Track Chair, Communication Networks, Cloud computing and IoT Track, 3rd International Conference on Frontiers in Computing and Systems (COMSYS), 2022, Springer
+        - Co-chair, Workshop on AI/ML for Edge/Fog Networks co-located with the IEEE INFOCOM 2022
+        - Co-chair, Workshop on Softwarized Next Generation Networks for IoT Services co-located with the IEEE GLOBECOM 2021
+        - Chair (Lead), Workshop on Virtualization for Enabling Next-Generation IoT Networks co-located with IEEE HPSR 2021.
+    - title: Host
+      items:
+        - Co-host, Webinar on Next-Generation IoT, IEEE Communication Society Technical Committee on Communications Software Special Interest Group (SIG) on “NFV and SDN Technologies” on 2021 and 2022
+        - Co-host, Webinar on Healthcare IoT, IEEE Communication Society Technical Committee on eHealth Special Interest Group (SIG) on “IoT for eHealth” and Technical Committee Green Computing and Communications Special Interest Group on “Pandemics” on 2021 and 2022
+
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - #title: Topic 1.
+      items:
+        - Machine Learning for Internet of Things (IoT) Networks
+        - Wireless Sensor Networks
+        - Intelligent Sensor-Cloud Architecture
+        - Cloud and Fog Computing Systems
+        - Smart Networked Unmanned Aerial Vehicles
+        - Intelligent Health Care Systems
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
+
+
+- title: References
+  type: nested_list
+  contents:
+    - title: <a href="http://cse.iitkgp.ac.in/~smisra/index.html">Prof. Sudip Misra</a>
+      items:
+        - PhD (Carleton U, Canada), Humboldt Fellow (Germany),
+        - FIEEE, FNAE (India), FNASc (India), FIETE (India), FIET (UK), FRSPH (UK)
+        - ACM Distinguished Member
+        - IEEE Communications Society (ComSoc) Distinguished Lecturer
+        - Professor & Abdul Kalam Technology Innovation National Fellow,
+        - Department of Computer Science and Engineering,
+        - Indian Institute of Technology Kharagpur,
+        - Kharagpur, West Bengal, India, 721302
+        - Editor, IEEE Transactions on Vehicular Technology
+        - Associate Editor, IEEE Transactions on Mobile Computing
+        - Associate Editor, IEEE Transactions on Sustainable Computing
+        - Associate Editor, IEEE Systems Journal
+        - Associate Editor, IEEE Network
+        - E-mail smisra@cse.iitkgp.ernet.in / sudipm@iitkgp.ac.in
+        - Phone +91-9734880277 / +91-9474174155
+
+    - title: Dr Yogachandran Rahulamathavan
+      items:
+        - PhD (UK), BEng (Hons),
+        - MIEEE, MIET, Fellow of HEA,
+        - Program Director for MSc Cybersecurity and Big Data,
+        - Lecturer in Cyber Security and Privacy,
+        - Institute for Digital Technologies,
+        - Loughborough University London
+        - 3 Lesney Avenue, The Broadcast Centre,
+        - Queen Elizabeth Olympic Park, London E15 2GZ,
+        - Associate Editor, IEEE Access
+        - Email Y.Rahulamathavan@lboro.ac.uk
+        - Phone 02038235677
+    - title: Prof. Farid Nait-Abdesselam, Ph.D.
+      items:
+        - Department of Computer Science Electrical Engineering
+        - School of Computing and Engineering, University of Missouri Kansas City
+        - 570B Flarsheim Hall, 5110 Rockhill Road, Kansas City, MO 64110
+        - Email naf@umkc.edu
+        - Phone 816-235-2335
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

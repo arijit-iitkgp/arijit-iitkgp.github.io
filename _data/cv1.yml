@@ -1,0 +1,18 @@
+- title: Positions Served/Membership
+  type: nested_list
+  contents:
+    - title: Editorship.
+      items:
+        - <B>Guest Editor</B>, IoT-based solutions for mitigation of COVID-19 and similar epidemics, Elsevier Smart Health
+        - <B>Associate Editor</B>, Frontiers in the Internet of Things.
+    - title: Chair
+      items:
+        - <B>Co-chair</B>, The 2nd Workshop on <strong >Softwarized Next Generation Networks for IoT Services</strong> co-located with the <strong style="color:blue">IEEE ICC 2022</strong>.
+        - <B>Track Chair</B>, <strong>Communication Networks, Cloud computing and IoT Track</strong>, <strong style="color:blue">3rd International Conference on Frontiers in Computing and Systems (COMSYS), 2022, Springer</strong>
+        - <B>Co-chair</B>, Workshop on <strong >AI/ML for Edge/Fog Networks</strong> co-located with the <strong style="color:blue">IEEE INFOCOM 2022</strong>
+        - <B>Co-chair</B>, Workshop on <strong>Softwarized Next Generation Networks for IoT Services</strong> co-located with the <strong style="color:blue">IEEE GLOBECOM 2021</strong>.
+        - <B>Chair (Lead)</B>, Workshop on <strong >Virtualization for Enabling Next-Generation IoT Networks</strong> co-located with <strong style="color:blue">IEEE HPSR 2021</strong>.
+    - title: Host
+      items:
+        - <B>Co-host</B>, Webinar on <strong>Next-Generation IoT</strong>, <strong style="color:blue">IEEE Communication Society Technical Committee on Communications Software Special Interest Group (SIG)</strong> on <strong>“NFV and SDN Technologies”</strong> on 2021 and 2022
+        - <B>Co-host</B>, Webinar on <strong>Healthcare IoT</strong>, <strong style="color:blue"> IEEE Communication Society Technical Committee on eHealth Special Interest Group (SIG)</strong> on <strong>“IoT for eHealth”</strong> and <strong style="color:blue"> Technical Committee Green Computing and Communications Special Interest Group</strong> on <strong>“Pandemics”</strong> on 2021 and 2022

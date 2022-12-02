@@ -1,0 +1,24 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2021
+      description:
+        - Service-oriented Sensor-cloud Management for IoT Applications
+        - Supervisor <a href="http://cse.iitkgp.ac.in/~smisra/index.html">Prof. Sudip Misra</a>, Fellow IEEE, FNAE (India), FNASc (India), FIETE (India), FIET (UK), FRSPH (UK)
+
+
+    - title: Master of Science (by Research)
+      institution: Indian Institute of Technology Kharagpur, India
+      year: 2015
+      description:
+        - Dumb Nodes in Wireless Sensor Networks
+        - Supervisor <a href="http://cse.iitkgp.ac.in/~smisra/index.html">Prof. Sudip Misra</a>, Fellow IEEE, FNAE (India), FNASc (India), FIETE (India), FIET (UK), FRSPH (UK)
+
+    - title: Bachelor of Technology in Information Technology
+      institution: West Bengal University of Technology, West Bengal, India
+      year: 2010
+      description:
+        - Cyber Court
+        - Supervisor Prof. Rajat Subhra Goswami.
