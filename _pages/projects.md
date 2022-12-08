@@ -2,7 +2,7 @@
 layout: page
 title: Startup
 permalink: /projects/
-description: 
+description:
 nav: false
 nav_order: 2
 display_categories: [HEALTHCARE, INDUSTRY,AGRICULTURE,POWER]
@@ -11,52 +11,4 @@ horizontal: false
 I am Director & Co-Founder of  <a href="https://www.sensordropsnetworks.com/">SensorDrops Networks Pvt. Ltd. </a>. We work in the following domains.
 
 
-
-
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+I am the Director & Co-Founder of a start-up, <a href="https://www.sensordropsnetworks.com/">SensorDrops Networks Pvt. Ltd. </a>. Our start-up provides integrated IoT-based sensing, monitoring, and control solutions. We focus on the healthcare, industrial, power, and agricultural sectors for providing IoT-based sensing and monitoring of various field-related parameters by individually addressing the challenges specific to both of these domains. Our company aims to provide economical, sustainable, and inclusive solutions for these domains. For more details visit: <a href="https://www.sensordropsnetworks.com/">SensorDrops Networks Pvt. Ltd. </a>.
