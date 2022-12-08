@@ -1,13 +1,7 @@
 ---
 layout: page
-title: More
+title: Startup
+permalink: /projects/
 nav: true
 nav_order: 6
-dropdown: true
-children:
-    - title: Publications
-      permalink: /publications/
-    - title: divider
-    - title: Startup
-      permalink: /projects/
 ---
